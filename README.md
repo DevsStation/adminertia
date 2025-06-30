@@ -90,14 +90,12 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) and [issues](https://github.com/devssta
 
 [MIT](./LICENSE)
 
-> 🔗 Development roadmap: see "[Adminertia Development Plan](https://twisty-stocking-85b.notion.site/Adminertia-Development-Plan-222a31c24b2e8078bc71e1f9661e05cb "Notion Doc: Adminertia Development Plan")" canvas or Notion doc
-
-
+> 🔗 Development roadmap: see "[Adminertia Development Plan](https://twisty-stocking-85b.notion.site/Adminertia-Development-Plan-222a31c24b2e8078bc71e1f9661e05cb "Notion Doc: Adminertia Development Plan"){target="_blank"}" canvas or Notion doc
 
 ---
 
 ## Sponsores
 
-Development Support: [DevsStation.com]()
+Development Support: [DevsStation.com](https://DevsStation.com "Development support"){target="_blank"}
 
-Hosting Support:  [BeingHosted.com](https://BeingHosted.com "Hosting/Server Support")
+Hosting Support:  [BeingHosted.com](https://BeingHosted.com "Hosting/Server Support"){target="_blank"}
